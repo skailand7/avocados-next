@@ -13,6 +13,7 @@ class Database {
     if (!Object.prototype.hasOwnProperty.call(data, id)) {
       return null;
     }
+
     const entry = data[id];
     await randomDelay();
 

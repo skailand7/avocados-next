@@ -15,7 +15,7 @@ const data: Record<TProductID, TProduct> = {
   },
   "8t6yfd9e": {
     name: "Arroz Extra Costeño Bolsa 5Kg",
-    id: "8r6yfd9e",
+    id: "8t6yfd9e",
     sku: "641425",
     price: 21.3,
     image: "",
