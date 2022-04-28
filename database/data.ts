@@ -1,4 +1,4 @@
-export const data = {
+const data: Record<TProductID, TProduct> = {
   "2zd33b8c": {
     name: "Leche GLORIA 400g Paquete 6 und.",
     id: "2zd33b8c",
@@ -106,3 +106,4 @@ export const data = {
     },
   },
 };
+export { data };
